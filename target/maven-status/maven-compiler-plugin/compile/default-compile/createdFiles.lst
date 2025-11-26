@@ -2,10 +2,12 @@ com\mvc\Entity\Station.class
 com\mvc\Service\RouteService.class
 com\mvc\FrontController.class
 com\mvc\Controller\RouteController.class
+com\mvc\DTO\AddStation.class
 com\mvc\Controller\BusController.class
+com\mvc\DTO\AddRoute.class
+com\mvc\DTO\AddBus.class
 com\mvc\Entity\Bus.class
 com\mvc\Service\StationService.class
-com\mvc\DTO\StudentDto.class
 com\mvc\Controller\StationController.class
 com\mvc\App.class
 com\mvc\WebInitializer.class
